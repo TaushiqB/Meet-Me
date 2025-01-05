@@ -28,7 +28,7 @@ function About() {
         className="mt-4 dark:text-ctnSecondaryDark text-gray-300 text-[17px] w-full leading-[30px] flex flex-col justify-between gap-6"
       >
         <div>
-          Hi! I&apos;m Taushiq Balamurugan, an aspiring Software Engineer skilled in full-stack development, cloud computing, AI, and automated testing.
+        Hi! I&apos;m Taushiq Balamurugan, an aspiring Software Engineer skilled in full-stack development, cloud computing, AI, and automated testing.
           I graduated in 2024 with a B.Tech in Computer and Communication Engineering from Amrita Vishwa Vidyapeetham, Coimbatore, where I developed a strong foundation in Computer Science.
           During my tenure as a Software Engineer Intern at Bosch Global Software Technologies Pvt. Ltd., I honed my skills in full-stack development, API design, and data visualization. 
           I have also ventured into AI research, authoring an upcoming IEEE paper titled "Validation of Vision Transformer Over Convolutional Neural Networks-based Pretrained Model for Schizophrenia Diagnosis." This work is my commitment to leveraging AI for impactful, real-world applications.
